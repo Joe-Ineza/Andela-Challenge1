@@ -6,7 +6,7 @@
 /*font-family: 'Big Shoulders Display', cursive;*/
 
 body{
-    margin: 0;
+    margin: 150;
     box-sizing: border-box;
     font-size: 15px;
     display: flex;
